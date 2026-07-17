@@ -1,6 +1,16 @@
 # 💫 About Me:
-# 💫 About Me:<br>## Hi there, I'm Nelaturu Prudvi 👋<br><br>- 🎓 Computer Science Engineering graduate passionate about software engineering, data-driven solutions, and problem-solving.<br>- 💼 Aspiring Software Engineer with expertise in Full-Stack Application Development, Data Analytics, and Cloud Technologies.<br>- 💻 Skilled in Java, Spring Boot, Angular, REST APIs, SQL, MySQL, HTML, CSS, JavaScript, and Python.<br>- 📊 Experienced in analyzing and visualizing data using SQL, Excel, and Power BI to deliver actionable business insights.<br>- ☁️ Exploring AWS, Azure, and cloud-native application development to build scalable software solutions.<br>- 🤖 Currently learning Generative AI and integrating AI capabilities into modern applications.<br>- 🚀 Passionate about designing scalable applications, developing secure APIs, and building data-driven solutions.<br>- 🧩 Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, and Database Management.<br>- 📚 Continuously learning emerging technologies and building real-world projects to strengthen my technical expertise.<br>- 🤝 Open to Software Engineer opportunities where I can contribute, learn, and grow while building impactful solutions.
+## Hi there, I'm Nelaturu Prudvi 👋
 
+- 🎓 Computer Science Engineering graduate passionate about software engineering, data-driven solutions, and problem-solving.
+- 💼 Aspiring Software Engineer with expertise in Full-Stack Application Development, Data Analytics, and Cloud Technologies.
+- 💻 Skilled in Java, Spring Boot, Angular, REST APIs, SQL, MySQL, HTML, CSS, JavaScript, and Python.
+- 📊 Experienced in analyzing and visualizing data using SQL, Excel, and Power BI to deliver actionable business insights.
+- ☁️ Exploring AWS, Azure, and cloud-native application development to build scalable software solutions.
+- 🤖 Currently learning Generative AI and integrating AI capabilities into modern applications.
+- 🚀 Passionate about designing scalable applications, developing secure APIs, and building data-driven solutions.
+- 🧩 Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, and Database Management.
+- 📚 Continuously learning emerging technologies and building real-world projects to strengthen my technical expertise.
+- 🤝 Open to Software Engineer opportunities where I can contribute, learn, and grow while building impactful solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nelaturuprudvi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nelaturuprudvi200211@gmail.com) 
